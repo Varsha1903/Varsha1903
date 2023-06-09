@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Varsha!</h1>
 
-<h3 align="center">Future Data Scientist <img align="right" src = "https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" max-width="200" height="200"></h3>
+<h3 align="center">Future Data Scientist <img align="right" src = "https://i.pinimg.com/originals/85/db/6c/85db6c2159cad870d390e6cf58a88e19.gif" max-width="200" height="200"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Varsha1903&label=Profile%20views&color=0e75b6&style=flat" alt="Varsha1903" /> </p>
 
